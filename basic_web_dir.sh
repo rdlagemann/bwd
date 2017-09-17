@@ -10,9 +10,8 @@ fi
 mkdir "$1"
 mkdir "$1/css"
 mkdir "$1/js"
-touch "$1/js/style.css"
+touch "$1/css/style.css"
 touch "$1/js/control.js"
-# touch "$1/index.html"
 echo '<!DOCTYPE html>
 <html>
 <head>

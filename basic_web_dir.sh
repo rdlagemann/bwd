@@ -20,7 +20,7 @@ echo '<!DOCTYPE html>
 
 	<title>' "$1" '</title>
 
-	<link rel="stylesheet" type="text/css" href="css/style.js">
+	<link rel="stylesheet" type="text/css" href="css/style.css">
 
 </head>
 <body>

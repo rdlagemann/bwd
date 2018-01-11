@@ -1,5 +1,5 @@
 # bwd
-It was made for running under Ubuntu OS but may work in Linux distros.  
+It was made for running under Ubuntu OS but may work in others Linux distros.  
 Creates a basic web site structure. So basic it hurts.  
 Helpful for beginners or to create quick prototypes.
 
